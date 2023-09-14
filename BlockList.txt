@@ -37,3 +37,8 @@ doubleclick.net
 securepubads.g.doubleclick.net
 btloader.com
 quantcast.com
+play.google.com/log
+adclick.g.doubleclick.net
+ads.revjet.com/click
+ads.revjet.com
+revjet.com
