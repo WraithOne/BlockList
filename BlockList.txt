@@ -1,34 +1,39 @@
-0.0.0.0 ams3-ib.adnxs.com
-0.0.0.0 r1-dyploma.zemanta.com
-0.0.0.0 tippsundtricks.co
-0.0.0.0 fra1-ib.adnxs.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 permutive.app
-0.0.0.0 amazon-adsystem.com
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 pubmatic.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 btloader.com
-0.0.0.0 d2fucu4fhozx2v.cloudfront.net
-0.0.0.0 t.9gag.com
-0.0.0.0 userreport.com
-0.0.0.0 theadex.com
-0.0.0.0 adscale.de
-0.0.0.0 ib.adnxs.com
-0.0.0.0 htlb.casalemedia.com
-0.0.0.0 tlx.3lift.com
-0.0.0.0 data.kameleoon.io
-0.0.0.0 fastlane.rubiconproject.com
-0.0.0.0 eu.webhook.logs.insight.rapid7.com
-0.0.0.0 acdn.adnxs.com
-0.0.0.0 scdn.cxense.com
-0.0.0.0 cdn-gl.nmrodam.com
-0.0.0.0 trc.taboola.com
-0.0.0.0 static.chartbeat.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 live.primis.tech
-0.0.0.0 tagan.adlightning.com
-0.0.0.0 secure.quantserve.com
-0.0.0.0 p.typekit.net
-0.0.0.0 cdn.cookielaw.org
+ams3-ib.adnxs.com
+r1-dyploma.zemanta.com
+tippsundtricks.co
+fra1-ib.adnxs.com
+pagead2.googlesyndication.com
+sb.scorecardresearch.com
+permutive.app
+amazon-adsystem.com
+c.amazon-adsystem.com
+pubmatic.com
+ads.pubmatic.com
+btloader.com
+d2fucu4fhozx2v.cloudfront.net
+t.9gag.com
+userreport.com
+theadex.com
+adscale.de
+ib.adnxs.com
+htlb.casalemedia.com
+tlx.3lift.com
+data.kameleoon.io
+fastlane.rubiconproject.com
+eu.webhook.logs.insight.rapid7.com
+acdn.adnxs.com
+scdn.cxense.com
+cdn-gl.nmrodam.com
+trc.taboola.com
+static.chartbeat.com
+sb.scorecardresearch.com
+live.primis.tech
+tagan.adlightning.com
+secure.quantserve.com
+p.typekit.net
+cdn.cookielaw.org
+twitter.com/i/api/1.1/jot
+doubleclick.net
+securepubads.g.doubleclick.net
+btloader.com
+quantcast.com
